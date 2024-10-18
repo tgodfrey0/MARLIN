@@ -4,6 +4,8 @@
 
 This repository accompanies our paper [**"MARLIN: Multi-Agent Reinforcement Learning Guided by Language-Based, Inter-Robot Negotiation"**]()
 
+*Currently under review for ICRA 2025*
+
 ## Usage
 
 To train a model using MARLIN based on MAPPO (Multi-Agent PPO with a centralised critic), simply run
