@@ -2,7 +2,7 @@
 
 *Toby Godfrey, William Hunt, Mohammad D. Soorati*
 
-This repository accompanies our paper [**"MARLIN: Multi-Agent Reinforcement Learning Guided by Language-Based, Inter-Robot Negotiation"**]()
+This repository accompanies our paper [**"MARLIN: Multi-Agent Reinforcement Learning Guided by Language-Based, Inter-Robot Negotiation"**](https://arxiv.org/abs/2410.14383)
 
 *Currently under review for ICRA 2025*
 
